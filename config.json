@@ -1,0 +1,10 @@
+{
+    "share_point": 
+        {
+            "user": "{username}",
+            "password": "{password}",
+            "url": "https://hernize.sharepoint.com",
+            "site": "https://hernize.sharepoint.com/sites/Test1",
+            "doc_library": "Shared Documents" 
+        }
+}
